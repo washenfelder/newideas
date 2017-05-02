@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -429,6 +430,14 @@ h6,
 }
 #features2-b .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
+}
+#msg-box2-d .mbr-section-title {
+  color: #3d8eb9;
+  font-size: 30px;
+  font-family: 'Lora', serif;
+}
+#msg-box2-d .mbr-section-subtitle {
+  color: #a0a0a0;
 }
 #form1-6 .form-control-label {
   color: #232323;
